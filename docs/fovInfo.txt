@@ -1,0 +1,11 @@
+http://www.spacealliance.ro/articles/view.aspx?id=201002250904
+22x22 deg FOV
+
+https://www.vectronic-aerospace.com/space-applications/star-sensor/
+14x14 deg FOV
+
+https://digitalcommons.usu.edu/cgi/viewcontent.cgi?referer=https://www.google.com/&httpsredir=1&article=1238&context=smallsat
+15x20.2 deg FOV
+
+file:///C:/home/inbox/Copia%20di%20A_STR_Autonomous_Star_Trackers_LQ_mm07786_.pdf
+16.4x16.4 deg FOV

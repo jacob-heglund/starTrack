@@ -1,0 +1,4 @@
+files downloaded from https://svs.gsfc.nasa.gov/vis/a000000/a003500/a003572/
+file information found at https://svs.gsfc.nasa.gov/cgi-bin/details.cgi?aid=3572
+
+for projection info, use this: https://en.wikipedia.org/wiki/Equirectangular_projection
